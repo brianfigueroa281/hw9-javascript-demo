@@ -1,0 +1,32 @@
+/* Light styling (extra credit): each section looks like a separate card */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f4f8;
+  color: #222222;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px 16px;
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  margin-top: 0;
+  border-bottom: 2px solid #3b82f6;
+  padding-bottom: 6px;
+}
+
+li {
+  margin-bottom: 8px;
+}

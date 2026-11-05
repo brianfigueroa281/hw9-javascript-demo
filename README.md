@@ -4,11 +4,11 @@ COMP 484
 
 ## Live Site (GitHub Pages)
 
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+(https://brianfigueroa281.github.io/hw9-javascript-demo/)
 
 ## Screenshot
 
-![Screenshot of finished page](screenshot.png)
+!(screenshot.png)
 
 Path: `screenshot.png`
 
